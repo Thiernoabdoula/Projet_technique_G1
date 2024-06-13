@@ -57,5 +57,4 @@ Le code affiche ensuite les performances des deux modèles et sélectionne le me
 
 Le code sauvegarde ensuite le meilleur modèle dans un fichier pickle.
 
-Enfin, le code affiche un readme du code.
 
